@@ -1,0 +1,20 @@
+{
+	"Menu_View": "Affichage",
+	"Menu_Window": "Options",
+	"Menu_Reload": "Recharger",
+	"Menu_ToggleFullScreen": "Passer en mode « plein écran »",
+	"Menu_BackgroundNotifications": "Notifications en arrière-plan",
+	"Menu_DiscordRichPresence": "Intégration Discord",
+	"Menu_EnableTabKey": "Activer la touche « Tab »",
+	"Menu_EnableMultiAccountOptimisation": "Optimisation multicomptes (mode antilag)",
+	"Menu_EnableForceGPURendering": "Forcer le rendu GPU (redémarrage nécessaire)",
+	"Menu_EnableHighRes": "Mode haute résolution (redémarrage nécessaire)",
+	"Menu_About": "À propos de",
+	"Menu_Hide": "Masquer",
+	"Menu_HideOthers": "Masquer les autres",
+	"Menu_Quit": "Quitter",
+	"Menu_ShowAll": "Tout afficher",
+	"Menu_ToggleDeveloperTools": "Outils de développement",
+	"Menu_Lang": "Langue",
+	"Menu_Option_Requires_Restart": "Redémarrage nécessaire"
+}
